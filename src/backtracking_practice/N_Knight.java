@@ -1,4 +1,4 @@
-package prac;
+package backtracking_practice;
 
 public class N_Knight {
     public static void main(String[] args) {

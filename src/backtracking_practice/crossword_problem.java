@@ -1,6 +1,6 @@
 package backtracking_practice;
 
-public class rrun {
+public class crossword_problem {
     public static void main(String[] args) {
 
     }

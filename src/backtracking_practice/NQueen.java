@@ -1,4 +1,4 @@
-package prac;
+package backtracking_practice;
 
 public class NQueen {
     public static void main(String[] args) {

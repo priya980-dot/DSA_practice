@@ -1,6 +1,5 @@
-package prac;
+package backtracking_practice;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Recursionandbacktracking {
